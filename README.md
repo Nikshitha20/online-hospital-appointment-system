@@ -1,5 +1,5 @@
 # online-hospital-appointment-system
-# Online Hospital Appointment System
+
 
 ## Description
 This is a reconstructed academic project created to demonstrate backend and 
